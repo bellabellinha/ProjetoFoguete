@@ -22,7 +22,7 @@
         }
         img{
             width: 200px;
-            height: 200px;
+            height: 150px;
         }
         input {
         width: 100%;
@@ -55,6 +55,8 @@
 
     button:hover {
         background-color: #6949CC;
+        transform: scale(1.05); 
+        
     }
     </style>
 </head>
